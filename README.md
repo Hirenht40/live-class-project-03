@@ -2,9 +2,9 @@
 
 I am Hirenkumar Trivedi. Passionate to become a Full Stack Web Developer.
 
-## Project Name : **Justice Page !**
+## Project Name : **Law home page !**
 
-This is Justice page, it is a part of Javascript web development bootcamp, Created this page with HTML and CSS.
+This is Law home page, it is a part of Javascript web development bootcamp, Created this page with HTML and CSS.
 
 
 </br>
